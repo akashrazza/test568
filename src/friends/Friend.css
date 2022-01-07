@@ -1,0 +1,7 @@
+.FriendRightNav{
+    max-height: 100vh !important;
+
+}
+input[type="search"] {
+    min-width: 100vw;
+}

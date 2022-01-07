@@ -1,0 +1,19 @@
+.massege-text{
+    padding:9px 15px;
+    background-color: gray;
+    width: 60%;
+    color: white;
+    border-radius: 50px;
+}
+.massege-text-right{
+    padding:9px 15px;
+    background-color: gray;
+    width: 140%;
+    top: auto;
+    color: white;
+    border-radius: 50px;
+}
+#Massege{
+   width: auto;
+    float: right;
+}

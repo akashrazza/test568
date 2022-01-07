@@ -1,0 +1,38 @@
+.layout{
+    display: flex;
+    height: 100vh;
+    /* background-color: aquamarine; */
+    flex-direction: column;
+}
+
+.row1{
+    /* background-color: rgb(197, 154, 97);ok */
+    height: 10%;
+    width: 100%;
+}
+
+.row2{
+    /* background-color: rgb(206, 193, 80); */
+    height: 90%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.row2_col1{
+    /* background-color: rgb(184, 222, 135); */
+    height: 100%;
+    width: 19% !important;
+}
+
+.row2_col2{
+    /* background-color: rgb(222, 135, 135); */
+    height: 100%;
+    width: 57% !important;
+}
+
+.row2_col3{
+    /* background-color: rgb(135, 173, 222); */
+    height: 100%;
+    width: 24% !important;
+}

@@ -1,0 +1,9 @@
+body{
+    margin: 0 !important;
+}
+.grow{
+    position:fixed !important;
+}
+img {
+    border-radius: 50%;
+  }
